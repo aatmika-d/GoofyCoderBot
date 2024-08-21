@@ -69,4 +69,4 @@ async def on_message(message):
     # Add more commands or responses as needed
 
 # Run the bot with your token
-client.run('MTI3NTc0NTg2NjM3NTg4ODkxOA.GPeqlX.9FG40VQkIYx6VETvamQU_rwK3knQQj4No4Aejs')
+client.run('write token here')
